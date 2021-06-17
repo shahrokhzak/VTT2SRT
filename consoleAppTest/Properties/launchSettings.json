@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "consoleAppTest": {
+      "commandName": "Project"
+    },
+    "WSL 2": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

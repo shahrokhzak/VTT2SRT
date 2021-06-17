@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>VTT_To_SRT_Converter</AssemblyName>
+    <StartupObject>consoleAppTest.Program</StartupObject>
+    <Description>Simple Program To Convert VTT To Srt File .
+</Description>
+  </PropertyGroup>
+
+</Project>
